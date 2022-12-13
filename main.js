@@ -8,7 +8,7 @@ window.addEventListener("DOMContentLoaded", game);
 //General sprite load
 var sprite = new Image();
 var spriteExplosion = new Image();
-sprite.src = 'sprite.png';
+sprite.src = 'https://marclopezavila.github.io/planet-defense-game/img/sprite.png';
 
 window.onload = function() {
     spriteExplosion.src = 'https://marclopezavila.github.io/planet-defense-game/img/explosion.png';
